@@ -17,3 +17,11 @@ IP Table:
   | Windows Server    | 192.168.10.2    |        | LAN vmx1  |
   | Linux RHEL Server | 192.168.20.2    |        | OPT1 vmx2 |
   | Linux Client      | 192.168.20.10   |        | OPT1 vmx2 |
+
+  | Service           | Username  | Password |
+  |-------------------|-----------|----------|
+  | pfSense GUI       | admin     | pfsense  |
+  | Windows Server    | student   | student  |
+  | Linux RHEL Server | student   | student  |
+  | Linux Client      | student   | student  |
+  |                   |           |          |

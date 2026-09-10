@@ -20,7 +20,7 @@ IP Table:
 
   | Service           | Username  | Password |
   |-------------------|-----------|----------|
-  | pfSense GUI       | admin     | pfsense  |
+  | pfSense GUI       | admin     | student  |
   | Windows Server    | student   | student  |
   | Linux RHEL Server | student   | student  |
   | Linux Client      | student   | student  |

@@ -20,12 +20,13 @@ IP Table:
 
   | Service           | Username  | Password |
   |-------------------|-----------|----------|
-  | pfSense GUI       | admin     | student  |
+  | pfSense GUI       | admin     | pfsense  |
   | Windows Server    | student   | student  |
   | Linux RHEL Server | student   | student  |
   | Linux Client      | student   | student  |
   |                   |           |          |
 
+Forward Zones: 
 
 
 # Lab 1 # 

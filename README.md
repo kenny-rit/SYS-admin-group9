@@ -25,3 +25,18 @@ IP Table:
   | Linux RHEL Server | student   | student  |
   | Linux Client      | student   | student  |
   |                   |           |          |
+
+
+
+# Lab 1 # 
+To Do: 
+ - ~~Deploy VM's~~
+ - Set up Windows AD
+    - ~~Set up DHCP scopes.~~
+    - Set up DNS.
+ - Set up RHEL AD
+    - Download IDM packages.
+ - Set up Cross-Realm Trust.
+ - ~~Set up DHCP Relay on router.~~
+ - Set up Linux Client Integration (SSSD).
+ - Set up HBAC Rules, Sudo Delegation, and Advanced Validation. 

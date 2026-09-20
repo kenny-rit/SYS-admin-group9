@@ -1,6 +1,7 @@
 ## Group 9 Documentation ## 
 Minh Ly, Kenny Yang, Ivan Shao 
 
+<img width="806" height="259" alt="Topology (1)" src="https://github.com/user-attachments/assets/3ed24318-4b36-49c9-9cb3-23a666042ae1" />
 # Quick Looks # 
 Windows Side: 
   -  Domain:           Windows.Lab

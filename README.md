@@ -18,7 +18,9 @@ IP Table:
   | pfSense           | 192.168.xxx.254 |        |           |
   | Windows Server    | 192.168.10.2    |        | LAN vmx1  |
   | Linux RHEL Server | 192.168.20.2    |        | OPT1 vmx2 |
-  | Linux Client      | 192.168.20.10   |        | OPT1 vmx2 |
+  | Linux Client      | 192.168.20.10   |        | OPT1 vmx2 | 
+  | Graylog           | 192.168.20.14   |        |           |
+  | Zabbix            | 192.168.20.15   |        |           |
 
   | Service           | Username  | Password |
   |-------------------|-----------|----------|
@@ -26,7 +28,8 @@ IP Table:
   | Windows Server    | student   | student  |
   | Linux RHEL Server | student   | student  |
   | Linux Client      | student   | student  |
-  |                   |           |          |
+  | Graylog           | student   | student  | 
+  | Zabbix            | student   | student  |
 
 Forward Zones: 
 
@@ -42,4 +45,12 @@ To Do:
  - Set up Cross-Realm Trust.
  - ~~Set up DHCP Relay on router.~~
  - Set up Linux Client Integration (SSSD).
- - Set up HBAC Rules, Sudo Delegation, and Advanced Validation. 
+ - Set up HBAC Rules, Sudo Delegation, and Advanced Validation.
+
+# Lab 2 # 
+ - ~~Configure Zabbix server~~
+   - Configure Agents and SNMP Monitors.
+ - ~~Configure Graylog~~
+   - Configure centralized log ingestion for Linux and Windows Event Logs. 
+ - Build dashboards and one alert rule.
+ - Update github. 

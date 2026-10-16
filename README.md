@@ -47,10 +47,5 @@ To Do:
  - Set up Linux Client Integration (SSSD).
  - Set up HBAC Rules, Sudo Delegation, and Advanced Validation.
 
-# Lab 2 # 
- - ~~Configure Zabbix server~~
-   - Configure Agents and SNMP Monitors.
- - ~~Configure Graylog~~
-   - Configure centralized log ingestion for Linux and Windows Event Logs. 
- - Build dashboards and one alert rule.
+# Lab 2 #
  - Update github. 

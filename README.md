@@ -48,4 +48,39 @@ To Do:
  - Set up HBAC Rules, Sudo Delegation, and Advanced Validation.
 
 # Lab 2 #
- - Update github. 
+ - Update github.
+
+# Lab 3 # 
+
+ - Provision Storage & Automation Hosts
+   - Deploy TrueNAS SCALE VM with dedicated boot and data disks
+   - Provision Rocky Linux VM for Cronicle
+   - Configure DNS A/PTR records for both hosts
+
+
+ - Configure ZFS Storage Infrastructure
+   - Set up redundant ZFS pool (`tank`) using a 2-disk mirror
+   - Create child datasets separated by purpose (SMB, NFS, Backup)
+
+
+ - Integrate Directory Services & Implement File Shares
+   - Join TrueNAS to Active Directory
+   - Configure SMB share with group-based ACLs (Writer vs. Reader access)
+   - Export NFS share and mount on Rocky Linux client (including `/etc/fstab` persistence)
+
+
+ - Implement Data Protection & Recovery
+   - Configure periodic ZFS snapshot tasks
+   - Set up local snapshot replication tasks
+   - Perform and verify file recovery from a snapshot
+
+
+ - Deploy Automation & System Observability
+   - Install Node.js 22.x and deploy Cronicle scheduler
+   - Create and execute a storage/share health validation job in Cronicle
+   - Integrate TrueNAS with observability stack (Zabbix host or Graylog log monitoring)
+
+
+ - Complete Lab Documentation & Reflection
+   - Update architecture diagram and record troubleshooting entries / contributions
+   - Complete required figures (1–10) and answer reflection questions (Q1–Q5)

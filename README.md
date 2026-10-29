@@ -21,6 +21,7 @@ IP Table:
   | Linux Client      | 192.168.20.10   |        | OPT1 vmx2 | 
   | Graylog           | 192.168.20.14   |        |           |
   | Zabbix            | 192.168.20.15   |        |           |
+  | Cronicle          | 192.168.20.16   |        |           |
 
   | Service           | Username  | Password |
   |-------------------|-----------|----------|
@@ -30,6 +31,7 @@ IP Table:
   | Linux Client      | student   | student  |
   | Graylog           | student   | student  | 
   | Zabbix            | student   | student  |
+  | TrueNas           | truenas_admin | student |
 
 Forward Zones: 
 

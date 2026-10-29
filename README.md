@@ -23,6 +23,7 @@ IP Table:
   | Zabbix            | 192.168.20.15   |        |           |
   | Cronicle          | 192.168.20.16   |        |           |
   | Web               | 192.168.20.11 | | |
+  |mail | 192.168.20.12 | | | 
 
   | Service           | Username  | Password |
   |-------------------|-----------|----------|
@@ -33,6 +34,8 @@ IP Table:
   | Graylog           | student   | student  | 
   | Zabbix            | student   | student  |
   | TrueNas           | truenas_admin | student |
+  |mail user: ivan | ivan@linux.lab | Student123$ |
+  |mail user: kenny | kenny@linux.lab | Student123$ |
 
 Forward Zones: 
 
